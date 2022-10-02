@@ -63,7 +63,6 @@ function App() {
         <h2>Loading...</h2>
       ) : (
         <div>
-          {" "}
           <span>
             <input
               type="search"
@@ -78,12 +77,15 @@ function App() {
               placeholder="Search by Email"
             />
           </span>
-          <table id="employee">
+            <div className="table-wrapper">
+              <table className="fl-table">
             <thead>
               <tr>{renderHeader()}</tr>
             </thead>
             <tbody>{renderBody()}</tbody>
-          </table>
+            </table>
+            </div>
+          
         </div>
       )}
     </>
