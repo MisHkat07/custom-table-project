@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/custom-table-project/static/css/main.cc330888.css",
+    "main.js": "/custom-table-project/static/js/main.a282f524.js",
+    "static/js/787.bf4e7827.chunk.js": "/custom-table-project/static/js/787.bf4e7827.chunk.js",
+    "index.html": "/custom-table-project/index.html",
+    "main.cc330888.css.map": "/custom-table-project/static/css/main.cc330888.css.map",
+    "main.a282f524.js.map": "/custom-table-project/static/js/main.a282f524.js.map",
+    "787.bf4e7827.chunk.js.map": "/custom-table-project/static/js/787.bf4e7827.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc330888.css",
+    "static/js/main.a282f524.js"
+  ]
+}
